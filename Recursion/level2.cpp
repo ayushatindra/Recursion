@@ -5,7 +5,7 @@ using namespace std;
 int climbling(int n){
   if(n==0){
     return 1;
-    // yeeeee gayan rakhna
+    // yeeeee ghayan rakhna
     
   }
   if(n==2){
